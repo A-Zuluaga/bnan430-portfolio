@@ -41,3 +41,11 @@ I used a bar chart filtering non-contactless cards. This displays the exact numb
 
 One thing I would like to have added to my visualization was more data insights such as the percentage of cards expiring.
 
+
+-- Advancing in Excel and Tableau Pt. 4: Card Growth Analysis - Wildcat Rewards Offer
+https://public.tableau.com/app/profile/azuluaga/viz/AdvancinginExcelandTableauPt_4/ExploratoryDashboard#1
+This visual is designed for Jordan Ellis, VP of Card Growth, to determine the target group for the initial Wildcat Rewards credit card pilot mailing.
+
+I recommend targeting the southwestern regional states consisting of California, Nevada, Texas, Utah, New Mexico, and Colorado. Although Bear Down Bank is headquartered in Tucson, Arizona yields only 3 eligible customers. By targeting the adjacent states instead, the pilot reaches a pool of 131 eligible customers who meet all the guardrail requirements at the approved 670 FICO cutoff.
+
+A highlighted geographic map of the U.S. was selected to show the targeted eligible customers. The visualization draws focus to the six brown-colored states and the number of eligible customers in each, while muting the remaining states in the background. A bar chart was considered as an additional visualization to provide more insights relating to which generation the eligible customers belong to (e.g., Baby Boomers, Millennials, Generation X). This was not chosen because it would create a visual redundant to what is already on the Exploratory Dashboard.
