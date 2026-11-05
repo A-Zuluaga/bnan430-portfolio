@@ -52,22 +52,21 @@ A highlighted geographic map of the U.S. was selected to show the targeted eligi
 
 
 
---
+
+
+-- Data Storytelling with Adobe Express: Wildcat Rewards Offer 
 https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:246baa0d-1beb-56cb-aa30-b964b93eceba?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other
-**Nov 4, 2026 · Data Storytelling with Adobe Express** 
+Nov 4, 2026
 
 Work sample for Jordan Ellis, VP of Card Growth, to determine the target group for the initial Wildcat Rewards credit card pilot mailing. 
 
-Design choice: I used two charts. The first is a bar chart showing the total number of eligible pilot participants with a FICO of 670, and do not have a Bear Down credit card.  The second is a map recommending where to conduct the pilot. These five states have the lowest penetration of credit card holders. The flow is to explain how we arrived at the number of our strongest participants for the pilot to be successful.
+Design choice: I used two charts. The first is a bar chart showing the total number of eligible pilot participants with a minimum FICO of 670, and do not have a Bear Down credit card.  The second is a map recommending where to conduct the pilot. These five states have the lowest penetration of credit card holders. The adobe demonstrates how we arrived at the number of our strongest participants for the pilot to be successful.
 
 Training completed: Nov 4, 2026 
 
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
 REFERENCES
 
-OpenAI. (2026, November 4). Various prompts to create Wilbur Wildcat, update Map and Bar charts, create a company logo and business description [Generative AI chat]. ChatGPT. 
+OpenAI. (2026, November 4). Various prompts to create Wilbur Wildcat, update Map and Bar charts from Advancing in Tableau and Excel Pt. 4, create a company logo and business description [Generative AI chat]. ChatGPT. 
 
 
 AI PROMPTS AND TITLES:
@@ -77,13 +76,12 @@ Wilbur Wildcat:  Create a cartoon image of Wilbur Wildcat, the University of Ari
 Map Chart: Create a new image from the uploaded file. The new image must be graphical and highlight each state. Enlarge the numbers and make them all of the same. Make the space where the state of Arizona is transparent. Create the image with a transparent background.
 
 Bar Chart: Create a new image from the uploaded file. The new image must be graphical. Replace the color in the bars using HEX: #106AB1. Create clear labels with backgrounds for the information above and below each bar. Create the image with a transparent background.
+
 Company Logo:  Create a logo for my consulting company that offers data analytics and insights for businesses. The name of my company is "A2Z Consulting". Our mission is to provide our customers with the right insights in order to move their businesses forward and make the right decisions. I want the logo to represent a modern, forward-thinking approach, but at the same time, to let our customers know that we take their business seriously. I want the color scheme to align with the following palette below. I prefer to use the secondary and the accent colors:
 
 Primary Colors - #AB0520, #0C234B 
 Secondary Colors - #03132E, #1E5288, #106AB1, #81CEEB, #850000, #C62840
 Accents - #7F8B5A, #3F7A7A, #85372B
 Neutrals - #E5EFF7, #F2EFEA, #FFFFF
-
-
 
 Company Description:  Based on the prompt for the company logo, I need some ideas for a description of my business and what I offer to customers.
